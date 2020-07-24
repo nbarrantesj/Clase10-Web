@@ -1,0 +1,116 @@
+.wrapper{
+    width: 1000px;
+    margin: auto;
+}
+
+#clearfix1{
+    width: 1000px;
+    height: 120px;
+}
+#logo{
+    margin: 2px;
+}
+.home{
+    float: right;
+    margin: 25px; margin-top: 45px;
+    font-size: 20px;
+    text-decoration: none;
+	color: black;
+}
+.header{
+    float: right;
+    margin:25px; margin-top: 45px;
+    font-size: 20px;
+    text-decoration: none;
+	color: orange;
+}
+
+#clearfix2{
+    width: 1000px;
+    height: 405px;
+}
+#portafolio{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#clearfix3{
+    width: 1000px;
+    height: 300px;
+}
+h2{
+    margin: 5px;
+    margin-top: 20px;
+}
+#about-us{
+    height: 290px;
+    width: 300px;
+    float: left;
+}
+a[href=".pdf"]{
+    text-decoration: none;
+	color: orange;
+}
+#our-benefits{
+    height: 290px;
+    width: 300px;
+    float: left; 
+    margin-left: 50px;
+}
+#info{
+    height: 5px;
+    width: 5px;
+}
+#testimonials{
+    height: 290px;
+    width: 300px;
+    float: right;
+}
+
+h3{
+    font-size: 25px;
+    margin: 20px;
+}
+#clearfix4{
+    width: 1000px;
+    height: 200px;
+}
+#imgportfolio{
+    margin: 18px;
+}
+
+#clearfix5{
+    width: 1000px;
+    height: 170px;
+}
+.blogInfo{
+    width: 680px;
+    height: 170px;
+    float: left;
+}
+.contactinfo{
+    height: 170px;
+    width: 270px;
+    float: right;
+    margin-top: 7px;
+}
+#imgcontact{
+    margin: 6px;
+}
+
+#clearfix6{
+    width: 1000px;
+    height: 90px;
+    background-color: rgb(175, 175, 175);
+}
+#lastMenu{
+    width: 700px;
+    height: 100px;
+    float: left;
+    margin: 5px;
+    margin-left: 20px;
+}
+#logoFinal{
+    float: right;
+    margin-right: 15px;
+}
